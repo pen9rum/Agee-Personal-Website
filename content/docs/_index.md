@@ -1,5 +1,5 @@
 ---
-title: "Documentation"
+title: "Blowfish Lowkey"
 description: "Learn how to use Blowfish and its features."
 
 cascade:
